@@ -3,6 +3,8 @@
 
 A conversion and calculation tool for frequencies and cycles🛠.
 
+![preview - v0 1 1](https://user-images.githubusercontent.com/31813146/145992896-94d820b3-3a29-47c0-ab69-d3f759853cf4.png)
+
 ## 🗝简介
 数字IC的设计必定离不开时许控制，因而设计及仿真测试过程中不得不与时钟信号打交道。
 
@@ -12,7 +14,7 @@ A conversion and calculation tool for frequencies and cycles🛠.
 1. 作者并非专职软件开发，后续主动更新仅取决于个人或同事的需求，欢迎向本仓库提交有价值的Issues，作者将在精力和能力范围内采纳并实现其中的开发建议；
 2. 软件开发完全为个人兴趣，开发过程即是作者的学习过程，开发语言也可能随更新改变，因此本软件的代码并不保证具有参考价值；
 3. 尽可能使用系统原生控件、API，如有引用三方API，将会在更新日志中注明，如有必要，将会在有引用的Release中注明license；
-4. 无兴趣做花里胡哨界面，但保证界面整洁直观、操作人性。
+4. 无兴趣做花里胡哨的界面，但保证界面整洁直观、操作人性。
 
 ## 📙更新日志
 #### 2021/11/25 - v0.0.1(1)
