@@ -5,6 +5,7 @@ A conversion and calculation tool for frequencies and cycles🛠.
 
 ## 🗝简介
 数字IC的设计必定离不开时许控制，因而设计及仿真测试过程中不得不与时钟信号打交道。
+
 这个小工具能够帮助数字工程师处理好时钟信号的频率及周期，将转换计算后的结果应用于不同的仿真环境。
 
 ## 👨🏻‍💻开发
