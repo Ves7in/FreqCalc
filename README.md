@@ -1,7 +1,7 @@
 # FreqCalc
 频率和周期的转换计算小工具🛠。
 
-A conversion and calculation tool for frequencies and cycles🛠.
+A conversion and calculation tool for frequency and period🛠.
 
 ![preview - v0 1 1](https://user-images.githubusercontent.com/31813146/145992896-94d820b3-3a29-47c0-ab69-d3f759853cf4.png)
 
