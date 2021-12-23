@@ -3,7 +3,9 @@
 
 A conversion and calculation tool for frequency and period🛠.
 
-![preview - v0 1 1](https://user-images.githubusercontent.com/31813146/145992896-94d820b3-3a29-47c0-ab69-d3f759853cf4.png)
+![preview - v0 1 2](https://user-images.githubusercontent.com/31813146/147212800-79cc855c-83af-43fd-a964-7d7e602a8087.PNG)
+![preview_about - v0 1 2](https://user-images.githubusercontent.com/31813146/147212872-e6e29a03-15e3-4a5f-87bb-28c14c918530.PNG)
+
 
 ## 🗝简介
 数字IC的设计必定离不开时许控制，因而设计及仿真测试过程中不得不与时钟信号打交道。
@@ -25,3 +27,11 @@ A conversion and calculation tool for frequency and period🛠.
 2. 添加输入错误提示功能；
 3. 添加计算结果一键复制按钮；
 4. 添加关于界面。
+
+#### 2021/12/23 - v0.1.2(3)
+1. 更新至v0.1.2(3)，使用Python重写,同时适配了Python2及Python3；
+2. Windows单文件可执行程序由[PyInstaller](https://github.com/pyinstaller/pyinstaller)生成；
+3. UI界面部分代码由[Tkinter Designer (@cdhigh)](https://github.com/cdhigh/tkinter-designer)生成；
+4. UI界面延用v0.1.1(2)版本设计，并做部分优化；
+5. 源代码在装有Python环境的Windows 7及MacOS 10.15.5上完成测试，均正常运行；
+6. MacOS上运行的界面仍存在设计缺陷，将在后续改进完善。
