@@ -31,5 +31,12 @@ A conversion and calculation tool for frequency and period🛠.
 2. Windows单文件可执行程序由[PyInstaller](https://github.com/pyinstaller/pyinstaller)生成；
 3. UI部分代码由[Tkinter Designer (@cdhigh)](https://github.com/cdhigh/tkinter-designer)生成；
 4. UI延用v0.1.1(2)版本设计，并做部分优化；
-5. 源代码在装有Python环境的Windows 7及MacOS 10.15.5上完成测试，均正常运行；
-6. MacOS上运行的界面仍存在设计缺陷，将在后续改进完善。
+5. 源代码在装有Python环境的Windows 7及macOS 10.15.5上完成测试，均正常运行；
+6. macOS上运行的界面仍存在设计缺陷，将在后续改进完善。
+
+#### 2021/12/30 - v0.1.3(4)
+1. 更新至v0.1.3(4)，适配Python2及Python3；
+2. 无功能更新，增加Linux平台支持，测试环境为RHEL Server 6.10，Python版本为2.6.6；
+3. 针对macOS上运行的界面进行了优化，并做部分交互调整；
+4. 删除ttk代码，所有UI均由tkinter实现；
+5. 修复了计算结果有效位数只有一位时无法正常格式化的虫。
