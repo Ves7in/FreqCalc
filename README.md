@@ -3,9 +3,7 @@
 
 A conversion and calculation tool for frequency and period🛠.
 
-![preview - v0 1 2](https://user-images.githubusercontent.com/31813146/147212800-79cc855c-83af-43fd-a964-7d7e602a8087.PNG)
-![preview_about - v0 1 2](https://user-images.githubusercontent.com/31813146/147212872-e6e29a03-15e3-4a5f-87bb-28c14c918530.PNG)
-
+![preview_all_logo - v0 1 3](https://user-images.githubusercontent.com/31813146/147745354-7aeff124-e819-4eda-82fa-971caa3c1839.png)
 
 ## 🗝简介
 数字IC的设计必定离不开时许控制，因而设计及仿真测试过程中不得不与时钟信号打交道。
